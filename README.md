@@ -40,7 +40,7 @@ The agent intelligently checks upcoming lectures from Google Calendar, analyzes 
 ---
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit
