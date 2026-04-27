@@ -10,6 +10,7 @@ The agent intelligently checks upcoming lectures from Google Calendar, analyzes 
 
 ---
 
+
 ## What the Agent Does
 
 -  Fetches and analyzes lecture schedules from Google Calendar
@@ -24,6 +25,7 @@ The agent intelligently checks upcoming lectures from Google Calendar, analyzes 
 -  Posts announcements and notifies students automatically
 
 ---
+
 
 ##  How It Interacts with the User
 
