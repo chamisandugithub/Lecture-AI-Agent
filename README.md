@@ -10,6 +10,26 @@ The agent intelligently checks upcoming lectures from Google Calendar, analyzes 
 
 ---
 
+```text
+Google Calendar Check
+        ↓
+Schedule Analysis & Priority Queue
+        ↓
+Syllabus Parsing
+        ↓
+AI Lecture Notes Generation
+        ↓
+AI Slide Generation
+        ↓
+Lecturer Email Review
+        ↓
+Approval / Revision Loop
+        ↓
+Canvas LMS Upload
+        ↓
+Student Notification
+```
+
 
 ## What the Agent Does
 
@@ -56,23 +76,3 @@ The agent intelligently checks upcoming lectures from Google Calendar, analyzes 
 
 ---
 
-##  Workflow Architecture
-
-```text
-Calendar Check
-      ↓
-Lecture Priority Analysis
-      ↓
-Syllabus Parsing
-      ↓
-Lecture Notes Generation
-      ↓
-Slide Generation
-      ↓
-Lecturer Review Email
-      ↓
-Approval / Revision Loop
-      ↓
-Canvas LMS Upload
-      ↓
-Student Notification
