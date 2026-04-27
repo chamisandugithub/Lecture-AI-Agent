@@ -9,6 +9,7 @@ Lecturer AI Agent is an end-to-end academic automation system designed to reduce
 The agent intelligently checks upcoming lectures from Google Calendar, analyzes syllabus content, generates lecture notes and PowerPoint slides using AI, sends them to the lecturer for review via email, handles revision requests automatically, and publishes approved materials to Canvas LMS while notifying students.
 
 ---
+### Workflow Architecture
 
 ```text
 Google Calendar Check
